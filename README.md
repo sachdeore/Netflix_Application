@@ -1,5 +1,8 @@
 Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
+![68747470733a2f2f696d6775722e636f6d2f764f5275426e4b2e706e67](https://github.com/user-attachments/assets/11ef0ce2-adea-450e-b453-bac8e6a16ba0)
+
+
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
